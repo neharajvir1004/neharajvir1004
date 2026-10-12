@@ -112,11 +112,26 @@ I'm looking for opportunities where I can learn, contribute, and grow as a softw
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 💼 [LinkedIn](https://www.linkedin.com/in/neha-rajvir/)
 📧 Email: neharajvir8@gmail.com
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neharajvir1004&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharajvir1004&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=neharajvir1004&label=Profile%20Views&color=0e75b6&style=flat" />
+
+---
+
+### 💡 "Keep learning, keep building, keep growing." 🚀
 
 ⭐ Thanks for visiting my profile!
