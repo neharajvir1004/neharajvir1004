@@ -80,7 +80,9 @@ I'm looking for opportunities where I can learn, contribute, and grow as a softw
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/neha-rajvir/
+## 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/neha-rajvir/)
 📧 Email: neharajvir8@gmail.com
 
 ---
