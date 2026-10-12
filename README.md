@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha Rajvir
 
-<!--
-**neharajvir1004/neharajvir1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 MCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm an MCA student passionate about building web and mobile applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently pursuing MCA  
+💡 Interested in Full Stack Development  
+🚀 Building projects and improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- JavaScript
+- Python
+- Kotlin
+- Java
+- HTML
+- CSS
+
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Bootstrap
+
+### 📱 Android Development
+- Kotlin
+- Android Studio
+- Firebase
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Book Management Web App
+**Python | Flask | SQLite | HTML | CSS | JavaScript**
+
+A web application for managing books with features such as adding, viewing, searching, editing, deleting, and tracking book availability.
+
+### 🧠 RunDSA – DSA Learning & Practice App
+**Kotlin | Android Studio | Firebase**
+
+An Android application for DSA learning, coding practice, quizzes, and progress tracking.
+
+### 🌐 MERN Stack Project
+**MongoDB | Express.js | React.js | Node.js**
+
+A full-stack web application demonstrating user authentication, database operations, and a responsive user interface.
+
+---
+
+## 📚 Currently Learning
+
+- Full Stack Development
+- React.js
+- Node.js & Express.js
+- MongoDB
+- Python & Flask
+- Android Development
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for opportunities where I can learn, contribute, and grow as a software developer while working on real-world projects.
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/neha-rajvir/
+📧 Email: neharajvir8@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
